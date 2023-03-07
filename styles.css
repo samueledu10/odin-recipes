@@ -1,0 +1,14 @@
+h1, h2, .description-p {
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.recipes {
+    font-size: 18px;
+    font-family: Georgia, serif;
+}
