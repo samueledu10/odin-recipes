@@ -11,4 +11,7 @@ img {
 .recipes {
     font-size: 18px;
     font-family: Georgia, serif;
+    text-align: center;
+    list-style-type: none;
 }
+
